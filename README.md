@@ -29,10 +29,10 @@ cd ai-content-generator-app
 npm install
 
 # Usage
-Choose Your Content Type: Select whether you want to generate blog content, YouTube tags, descriptions, or blog topic ideas.
-Customize Your Input: Provide specific details like keywords or topics to tailor the generated content.
-Generate and Share Content: Receive the AI-generated content and easily share or publish it.
-Contributing
+-**Choose Your Content Type**: Select whether you want to generate blog content, YouTube tags, descriptions, or blog topic ideas.
+-**Customize Your Input**: Provide specific details like keywords or topics to tailor the generated content.
+-**Generate and Share Content**: Receive the AI-generated content and easily share or publish it.
+-**Contributing**
 Contributions are welcome! If you have any ideas or improvements, please follow these steps:
 
 # Fork the repository.
