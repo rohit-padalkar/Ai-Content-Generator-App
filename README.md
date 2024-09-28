@@ -4,7 +4,7 @@ Welcome to the **AI Content Generator App**! This is a full-stack application de
 
 ## Live Demo
 
-Check out the live app [here](https://your-live-app-url.com).
+Check out the live app [here][((https://ai-content-generator-app-rohit-padalkar.vercel.app/)]).
 
 ## Features
 
